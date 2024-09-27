@@ -1,16 +1,19 @@
-## Hi there 👋
+# Welcome to My GitHub Profile! 👾
 
-<!--
-**saintsrari/saintsrari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Matheus, aka Saints, a self-proclaimed coding wizard (or at least I like to think so). Here’s a glimpse of my glorious journey through the chaotic world of programming.
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saintsrari&show_icons=true&hide_title=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saintsrari&layout=compact&show_icons=true&hide_title=true&theme=radical)
+
+## 🌱 Currently Learning
+
+I'm currently mastering the art of making bugs look like features. Stay tuned!
+
+## ✉️ Let's Connect!
+
+If you want to chat or complain about code, hit me up on:
+- [Discord](https://discord.gg/kPVkzBrb)
+
+Thanks for visiting my chaotic corner of GitHub! Remember: it’s not a bug, it’s a *creative feature*! 🚀
